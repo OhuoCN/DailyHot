@@ -51,7 +51,7 @@ export default defineConfig(({ mode }) => {
           ],
         },
         manifest: {
-          name: "今日热榜",
+          name: "Oops",
           short_name: "DailyHot",
           description: "汇聚全网热点，热门尽览无余",
           display: "standalone",
